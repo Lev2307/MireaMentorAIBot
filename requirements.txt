@@ -1,2 +1,5 @@
+aiohttp-socks
 aiogram
 python-dotenv
+pytz
+pyyaml
