@@ -1,5 +1,6 @@
 aiohttp-socks
 aiogram
+aiofile
 python-dotenv
 pytz
 pyyaml
